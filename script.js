@@ -187,7 +187,7 @@ form.addEventListener("submit",(e)=>{
 
     alert(
 
-    "Terima kasih! Reservasi Warkop Kance berhasil dikirim."
+    "Tunggulah di tempat duduk agek di anterke, jangan kemano mano!!!."
 
     );
 
